@@ -10,7 +10,7 @@ const CONFIG_PATH = join(__dirname, '..', 'pepperv1', 'backend', 'config.json');
 
 const defaults = {
   port: 3457,
-  allowedNumbers: [18032920205],
+  allowedNumbers: [],
   allowAllNumbers: false,
   claudeCommand: 'claude',
   claudeArgs: ['--print'],
