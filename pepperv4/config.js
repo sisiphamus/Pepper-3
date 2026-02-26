@@ -22,7 +22,7 @@ const defaults = {
   codeWorkingDirectory: process.cwd(),
   prefix: '!claude ',
   authDir: join(__dirname, '..', 'pepperv1', 'backend', 'auth_state'),
-  telegramToken: '8588798112:AAGq_cTWMfd3HyQErQVUeMnVFitmcHWbhgM',
+  telegramToken: '',
   telegramPrefix: '',
   telegramAllowedIds: [],
   smsGatewayUrl: '',
