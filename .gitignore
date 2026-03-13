@@ -27,3 +27,5 @@ pepperv1/backend/bot/memory/knowledge/**
 !pepperv1/backend/bot/memory/knowledge/.gitkeep
 pepperv1/backend/bot/memory/preferences/**
 !pepperv1/backend/bot/memory/preferences/.gitkeep
+
+.mcp.json
